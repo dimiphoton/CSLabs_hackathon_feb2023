@@ -1,5 +1,5 @@
 # our CSLab 2023 hackathon
-team work: propose solution for the inclusion of handicapped persons
+team work: propose solutions for the inclusion of handicapped persons
 
 # The context
 
@@ -45,7 +45,7 @@ You can think of your prototype as an experiment in order to test out a hypothes
 
 
 
-A good prototyping website is Figma[^8]
+**A good prototyping website is Figma[^8]**
 
 #### Phase 6: Validate [^7]
 
