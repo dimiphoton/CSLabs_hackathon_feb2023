@@ -1,0 +1,11 @@
+1. Audio tour guide: The application may contain a guide that tells aloud the touristic places or points of interest in the user's area.
+
+
+2. Digital Braille map: The app can provide a Braille map that updates as the user moves. This can help the user navigate on their own.
+	3. Location-based alerts: The application may issue alerts based on the user's location. For example, it can present warnings when approaching a dangerous intersection.
+	6. Disabled parking finder: The app can help users find nearby disabled parking spaces.
+
+SMARTWATCH
+	5. Talking clock: The application may include a talking clock feature that works on smart watches.
+	8. Translation feature: The app may include a translation feature to help users understand different languages.
+	9. Emergency feature: The application can offer a feature that can help the user to quickly call for help in an emergency.
