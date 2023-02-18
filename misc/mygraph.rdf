@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:ns1="http://example.com/ontology/activity#"
+   xmlns:ns2="http://example.com/ontology/problem#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://example.com/ontology/problem#problem1">
+    <rdf:type rdf:resource="http://example.com/ontology/problem#Problem"/>
+    <ns2:isRelatedTo rdf:resource="http://example.com/ontology/activity#activity1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/ontology/activity#activity1">
+    <rdf:type rdf:resource="http://example.com/ontology/activity#Activity"/>
+    <ns1:hasSolution rdf:resource="http://example.com/ontology/solution#solution1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/ontology/activity#hasSolution">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/ontology/activity#Activity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/ontology/problem#isRelatedTo">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#ObjectProperty"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/ontology/solution#solution1">
+    <rdf:type rdf:resource="http://example.com/ontology/solution#Solution"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/ontology/solution#Solution">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.com/ontology/problem#Problem">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+</rdf:RDF>
