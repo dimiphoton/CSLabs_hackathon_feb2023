@@ -1,0 +1,17 @@
+
+
+BrailleGuide is designed to help disabled individuals navigate and explore their surroundings. It includes several features that could greatly improve the user's experience, including:
+
+Audio tour guide: A feature that provides users with an audio guide to nearby points of interest, which they can listen to while exploring their surroundings.
+Digital Braille map: A feature that provides a digital Braille map that updates in real-time, allowing users to navigate on their own.
+Location-based alerts: A feature that issues alerts based on the user's location, such as when approaching a dangerous intersection or other potential hazards.
+Disabled parking finder: A feature that helps users find nearby disabled parking spaces.
+Talking clock: A feature that provides a talking clock, allowing users to check the time without needing to read the display.
+Translation feature: A feature that offers translation functionality to help users understand different languages.
+Emergency feature: A feature that allows the user to quickly call for help in an emergency.
+
+In addition to these features, the app also offers several other potential enhancements to improve usability and customization. 
+These include voice commands, a high-contrast mode, customizable settings, integration with other accessibility features, and user feedback.
+
+
+
